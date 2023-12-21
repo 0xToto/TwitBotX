@@ -1,0 +1,2 @@
+Pour l'utiliser il vous faut un compte développeur sur twitter pour utiliser leur api, et un compte openai avec du solde, pour utiliser chat gpt.
+Reprenez le code ci-dessous, entrez vos api, enregistrez et executez le .py, ensuite le bot postera toutes les X minutes selon ce que vous avez configuré.
